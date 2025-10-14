@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<spss-ml 
+	 version="1.0"
+	 xmlns="http://xml.spss.com/spss/spss-ml"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:schemaLocation="http://xml.spss.com/spss/spss-ml spss-ml-1.0.xsd">
+	<dictionary 
+		 version="1.0">
+		<variable 
+			 name="PrioriGroup"
+			 measurement-level="NOMINAL"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="0" />
+		</variable>
+		<variable 
+			 name="PopulationofCivilianage16Unemployed2010"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="0.0758051201701164" />
+		</variable>
+		<variable 
+			 name="PctDevelopedLand"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="10.0179557800293" />
+		</variable>
+		<variable 
+			 name="Femalehouseholdernohusbandpresent"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="0.114071853458881" />
+		</variable>
+		<variable 
+			 name="PctForestShrubHerbaceous"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="45.0970191955566" />
+		</variable>
+		<variable 
+			 name="HousinginStructureswith10orMoreUnits"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="0.0428474396467209" />
+		</variable>
+		<variable 
+			 name="Infant1yearoldMortalityRatePer1000LiveBirthsOverFi"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="7.04611873626709" />
+		</variable>
+		<variable 
+			 name="MedianRent"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="626.351684570313" />
+		</variable>
+		<variable 
+			 name="Medianvalueofowneroccupiedhousing"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="132366.921875" />
+		</variable>
+		<variable 
+			 name="MinorityallpersonsexceptwhitenonHispanic2010"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="0.214580059051514" />
+		</variable>
+		<variable 
+			 name="MobileHomes"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="0.133790031075478" />
+		</variable>
+		<variable 
+			 name="OccupiedHousingUnitswithNoVehicleAvailable"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="0.0630049183964729" />
+		</variable>
+		<variable 
+			 name="OccupiedHousingUnitswithTelephoneAvailable"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="0.957844793796539" />
+		</variable>
+		<variable 
+			 name="PctWetlands2010"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="7.16492462158203" />
+		</variable>
+		<variable 
+			 name="PopulationAged65andOlder2010"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="0.158732280135155" />
+		</variable>
+		<variable 
+			 name="PopulationAged17andYounger2010"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="0.234370738267899" />
+		</variable>
+		<variable 
+			 name="PopulationinInstitutionalizedandNoninstitutionalizedGrou"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="0.0336302481591702" />
+		</variable>
+		<variable 
+			 name="RenteroccupiedHousingUnits"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="0.266135483980179" />
+		</variable>
+		<variable 
+			 name="RuralHousingUnits2010"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="0.588739156723022" />
+		</variable>
+		<variable 
+			 name="TotalPopulationwithDisability2012"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="0.145320206880569" />
+		</variable>
+		<variable 
+			 name="UninsuredCivilianNoninstitutionalizedPopulation"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="0.150510504841805" />
+		</variable>
+		<variable 
+			 name="VotingPopulationCitizen18andoverpopulation2012"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="5"  decimals="3" />
+			<var-stats  mean="0.585201799869537" />
+		</variable>
+		<variable 
+			 name="Womenwithbirthsinthepast12months15to50yearsold"
+			 measurement-level="CONTINUOUS"
+			 storage-type="NUMERIC">
+			<format-spec  format="5"  width="11"  decimals="4" />
+			<var-stats  mean="0.0580580718815327" />
+		</variable>
+	</dictionary>
+	<model 
+		 unique-id=""
+		 verbose-model-specification="">
+		<discriminant-model 
+			 target-variable-name="PrioriGroup"
+			 number-functions="3">
+			<function-coefficients >
+				<cell  row="PopulationofCivilianage16Unemployed2010"  column="1"  value="-2.03656974948458" />
+				<cell  row="PopulationofCivilianage16Unemployed2010"  column="2"  value="-12.7232306754573" />
+				<cell  row="PopulationofCivilianage16Unemployed2010"  column="3"  value="-5.26483981626019" />
+				<cell  row="PctDevelopedLand"  column="1"  value="-0.0139183404752272" />
+				<cell  row="PctDevelopedLand"  column="2"  value="-0.0254892778604476" />
+				<cell  row="PctDevelopedLand"  column="3"  value="0.0264127235333417" />
+				<cell  row="Femalehouseholdernohusbandpresent"  column="1"  value="-4.44328366952525" />
+				<cell  row="Femalehouseholdernohusbandpresent"  column="2"  value="11.7276815398133" />
+				<cell  row="Femalehouseholdernohusbandpresent"  column="3"  value="-21.2453712693264" />
+				<cell  row="PctForestShrubHerbaceous"  column="1"  value="-0.00444484810238845" />
+				<cell  row="PctForestShrubHerbaceous"  column="2"  value="-0.0190915808716342" />
+				<cell  row="PctForestShrubHerbaceous"  column="3"  value="0.00430468020914571" />
+				<cell  row="HousinginStructureswith10orMoreUnits"  column="1"  value="-0.782969551956735" />
+				<cell  row="HousinginStructureswith10orMoreUnits"  column="2"  value="4.0606036024536" />
+				<cell  row="HousinginStructureswith10orMoreUnits"  column="3"  value="-9.96559942327336" />
+				<cell  row="Infant1yearoldMortalityRatePer1000LiveBirthsOverFi"  column="1"  value="0.129449615540853" />
+				<cell  row="Infant1yearoldMortalityRatePer1000LiveBirthsOverFi"  column="2"  value="-0.223927899100922" />
+				<cell  row="Infant1yearoldMortalityRatePer1000LiveBirthsOverFi"  column="3"  value="-0.0267394680441009" />
+				<cell  row="MedianRent"  column="1"  value="-0.000589980656084624" />
+				<cell  row="MedianRent"  column="2"  value="0.00155265699530968" />
+				<cell  row="MedianRent"  column="3"  value="0.0061472092554002" />
+				<cell  row="Medianvalueofowneroccupiedhousing"  column="1"  value="-4.55342422611628E-06" />
+				<cell  row="Medianvalueofowneroccupiedhousing"  column="2"  value="-5.19430465347947E-06" />
+				<cell  row="Medianvalueofowneroccupiedhousing"  column="3"  value="-4.68079256649344E-06" />
+				<cell  row="MinorityallpersonsexceptwhitenonHispanic2010"  column="1"  value="2.48020347670726" />
+				<cell  row="MinorityallpersonsexceptwhitenonHispanic2010"  column="2"  value="-2.4123523667242" />
+				<cell  row="MinorityallpersonsexceptwhitenonHispanic2010"  column="3"  value="1.58910764193982" />
+				<cell  row="MobileHomes"  column="1"  value="-2.35625471729232" />
+				<cell  row="MobileHomes"  column="2"  value="-0.384827751364102" />
+				<cell  row="MobileHomes"  column="3"  value="-0.878334769527201" />
+				<cell  row="OccupiedHousingUnitswithNoVehicleAvailable"  column="1"  value="8.32736497918062" />
+				<cell  row="OccupiedHousingUnitswithNoVehicleAvailable"  column="2"  value="-1.99947016806648" />
+				<cell  row="OccupiedHousingUnitswithNoVehicleAvailable"  column="3"  value="7.67833823156039" />
+				<cell  row="OccupiedHousingUnitswithTelephoneAvailable"  column="1"  value="3.02620360689718" />
+				<cell  row="OccupiedHousingUnitswithTelephoneAvailable"  column="2"  value="6.70798052634284" />
+				<cell  row="OccupiedHousingUnitswithTelephoneAvailable"  column="3"  value="-7.65098031400949" />
+				<cell  row="PctWetlands2010"  column="1"  value="-0.00506870689843027" />
+				<cell  row="PctWetlands2010"  column="2"  value="-0.000312092488366062" />
+				<cell  row="PctWetlands2010"  column="3"  value="0.052607444459443" />
+				<cell  row="PopulationAged65andOlder2010"  column="1"  value="6.58524392888717" />
+				<cell  row="PopulationAged65andOlder2010"  column="2"  value="8.65702380363115" />
+				<cell  row="PopulationAged65andOlder2010"  column="3"  value="2.34261106939569" />
+				<cell  row="PopulationAged17andYounger2010"  column="1"  value="2.23948129925772" />
+				<cell  row="PopulationAged17andYounger2010"  column="2"  value="16.0709309394549" />
+				<cell  row="PopulationAged17andYounger2010"  column="3"  value="5.44303125077301" />
+				<cell  row="PopulationinInstitutionalizedandNoninstitutionalizedGrou"  column="1"  value="2.83392236812547" />
+				<cell  row="PopulationinInstitutionalizedandNoninstitutionalizedGrou"  column="2"  value="8.98703891442309" />
+				<cell  row="PopulationinInstitutionalizedandNoninstitutionalizedGrou"  column="3"  value="5.21687200846901" />
+				<cell  row="RenteroccupiedHousingUnits"  column="1"  value="-0.822380746114309" />
+				<cell  row="RenteroccupiedHousingUnits"  column="2"  value="4.8135662456507" />
+				<cell  row="RenteroccupiedHousingUnits"  column="3"  value="0.992331721884613" />
+				<cell  row="RuralHousingUnits2010"  column="1"  value="1.4276426027573" />
+				<cell  row="RuralHousingUnits2010"  column="2"  value="-0.00933213793186192" />
+				<cell  row="RuralHousingUnits2010"  column="3"  value="1.3661163919907" />
+				<cell  row="TotalPopulationwithDisability2012"  column="1"  value="6.99175752652562" />
+				<cell  row="TotalPopulationwithDisability2012"  column="2"  value="1.87347684027132" />
+				<cell  row="TotalPopulationwithDisability2012"  column="3"  value="4.45549243527028" />
+				<cell  row="UninsuredCivilianNoninstitutionalizedPopulation"  column="1"  value="-4.68967785665783" />
+				<cell  row="UninsuredCivilianNoninstitutionalizedPopulation"  column="2"  value="4.6168484399871" />
+				<cell  row="UninsuredCivilianNoninstitutionalizedPopulation"  column="3"  value="3.85356083317281" />
+				<cell  row="VotingPopulationCitizen18andoverpopulation2012"  column="1"  value="-2.59624555482485" />
+				<cell  row="VotingPopulationCitizen18andoverpopulation2012"  column="2"  value="3.84713677573174" />
+				<cell  row="VotingPopulationCitizen18andoverpopulation2012"  column="3"  value="1.0238131418777" />
+				<cell  row="Womenwithbirthsinthepast12months15to50yearsold"  column="1"  value="-0.899023909613375" />
+				<cell  row="Womenwithbirthsinthepast12months15to50yearsold"  column="2"  value="7.83392001864903" />
+				<cell  row="Womenwithbirthsinthepast12months15to50yearsold"  column="3"  value="8.10283336138961" />
+				<cell  column="1"  value="-3.53491699855439" />
+				<cell  column="2"  value="-14.2577904080858" />
+				<cell  column="3"  value="0.804412431510716" />
+			</function-coefficients>
+			<fgc-matrix >
+				<cell  row="1"  column="1"  value="0.567370366261336" />
+				<cell  row="1"  column="2"  value="0.695840528763451" />
+				<cell  row="1"  column="3"  value="0.763610373748545" />
+				<cell  row="2"  column="1"  value="0.778125311371339" />
+				<cell  row="2"  column="2"  value="-0.210553537850961" />
+				<cell  row="2"  column="3"  value="-0.0175036134897808" />
+				<cell  row="3"  column="1"  value="0.244000183349946" />
+				<cell  row="3"  column="2"  value="0.693510289633708" />
+				<cell  row="3"  column="3"  value="-0.29918698498378" />
+				<cell  row="4"  column="1"  value="-0.705342708916032" />
+				<cell  row="4"  column="2"  value="-0.0690811671790232" />
+				<cell  row="4"  column="3"  value="0.0160817700207321" />
+			</fgc-matrix>
+			<prior-vector >
+				<prior-value  target-category="1"  value="0.25" />
+				<prior-value  target-category="2"  value="0.25" />
+				<prior-value  target-category="3"  value="0.25" />
+				<prior-value  target-category="4"  value="0.25" />
+			</prior-vector>
+		</discriminant-model>
+	</model>
+</spss-ml>
